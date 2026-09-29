@@ -1,0 +1,15 @@
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+H:\Concurrent-Programming-Labs\Labs\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
