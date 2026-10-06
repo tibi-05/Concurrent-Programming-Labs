@@ -1,0 +1,15 @@
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\bin\Debug\net10.0\Lab2.exe
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\bin\Debug\net10.0\Lab2.deps.json
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\bin\Debug\net10.0\Lab2.runtimeconfig.json
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\bin\Debug\net10.0\Lab2.dll
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\bin\Debug\net10.0\Lab2.pdb
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.AssemblyInfoInputs.cache
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.AssemblyInfo.cs
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.csproj.CoreCompileInputs.cache
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.sourcelink.json
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.dll
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\refint\Lab2.dll
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.pdb
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\Lab2.genruntimeconfig.cache
+C:\CM3113 ConcurrentProgramming\Concurrent-Programming-Labs\Labs\Lab2\obj\Debug\net10.0\ref\Lab2.dll
