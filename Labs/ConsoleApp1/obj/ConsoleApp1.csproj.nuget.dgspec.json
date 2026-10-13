@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CM3113 ConcurrentProgramming\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "H:\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\CM3113 ConcurrentProgramming\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "H:\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CM3113 ConcurrentProgramming\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "H:\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\CM3113 ConcurrentProgramming\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\tibip\\.nuget\\packages\\",
-        "outputPath": "C:\\CM3113 ConcurrentProgramming\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\obj\\",
+        "projectPath": "H:\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\2408009\\.nuget\\packages\\",
+        "outputPath": "H:\\Concurrent-Programming-Labs\\Labs\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\tibip\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\2408009\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -66,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
